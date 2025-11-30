@@ -5,7 +5,7 @@ I am currently learning how to code and in my free time I love to draw.
 
 🔭 I’m currently working on a 2D platformer game!
 
-🌱 I’m currently learning web app development
+🌱 I’m currently learning Godot
 
 📫 How to reach me: _llis_a (instagram)
 
